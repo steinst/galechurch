@@ -1,0 +1,1 @@
+A Python 3 implementation of the Gale-Church algorithm for aligning sentences.
